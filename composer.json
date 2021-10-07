@@ -81,6 +81,6 @@
         }
     },
     "scripts": {
-        "php-cs-fixer": "php-cs-fixer --rules=@PSR3"
+        "php-cs-fixer": "php-cs-fixer --rules=@PSR1"
     }
 }
